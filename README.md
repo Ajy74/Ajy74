@@ -1,6 +1,7 @@
- <h1 align="center">Hi 👋, I'm Ajay Mourya</h1>
+<h1 align="center">Hi 👋, I'm Ajay Mourya</h1>
+<h4 align="center">Flutter Enthusiast | Mobile Application Developer</h4>
 
-- 🔭 I’m currently Exploring deep on Flutter
+- 🔭 I’m currently Exploring deep on Flutter and up skilling with other techs 
 - 🌱 I’m currently learning cloud services
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: mouryaajay7463@gmail.com
@@ -21,12 +22,12 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,nodejs,androidstudio,php,java,mysql,kotlin,html,css,firebase,github,git,postman,aws,&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Ajay Mourya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajy74&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajy74&theme=dark)
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/Ajy74)
+⭐️ From [Ajay Mourya](https://github.com/Ajy74)
